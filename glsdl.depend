@@ -1,0 +1,523 @@
+# depslib dependency file v1.0
+1305375863 source:/home/aljosha/programiranje/gslsdl/glsdl/main.cpp
+	"Engine.h"
+	<iostream>
+
+1305238023 /usr/local/include/SDL/SDL.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1305238023 /usr/local/include/SDL/SDL_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1305238023 /usr/local/include/SDL/SDL_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1305238023 /usr/local/include/SDL/SDL_config.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1305238023 /usr/local/include/SDL/SDL_platform.h
+
+1305238023 /usr/local/include/SDL/begin_code.h
+
+1305238023 /usr/local/include/SDL/close_code.h
+
+1305238023 /usr/local/include/SDL/SDL_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1305238023 /usr/local/include/SDL/SDL_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1305238023 /usr/local/include/SDL/SDL_endian.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1305238023 /usr/local/include/SDL/SDL_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1305238023 /usr/local/include/SDL/SDL_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1305238023 /usr/local/include/SDL/SDL_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1305238023 /usr/local/include/SDL/SDL_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1305238023 /usr/local/include/SDL/SDL_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1305238023 /usr/local/include/SDL/SDL_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1305238023 /usr/local/include/SDL/SDL_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1305238023 /usr/local/include/SDL/SDL_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1305238023 /usr/local/include/SDL/SDL_keysym.h
+
+1305238023 /usr/local/include/SDL/SDL_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1305238023 /usr/local/include/SDL/SDL_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1305238023 /usr/local/include/SDL/SDL_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1305238023 /usr/local/include/SDL/SDL_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1305238023 /usr/local/include/SDL/SDL_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1305238023 /usr/local/include/SDL/SDL_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1305238023 /usr/local/include/SDL/SDL_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1301615163 /usr/include/SDL/SDL.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1301615163 /usr/include/SDL/SDL_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1301615163 /usr/include/SDL/SDL_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1301615164 /usr/include/SDL/SDL_config.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1301615163 /usr/include/SDL/SDL_platform.h
+
+1301615163 /usr/include/SDL/begin_code.h
+
+1301615164 /usr/include/SDL/close_code.h
+
+1301615163 /usr/include/SDL/SDL_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1301615163 /usr/include/SDL/SDL_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1301615163 /usr/include/SDL/SDL_endian.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1301615163 /usr/include/SDL/SDL_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1301615163 /usr/include/SDL/SDL_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1301615163 /usr/include/SDL/SDL_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1301615163 /usr/include/SDL/SDL_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1301615163 /usr/include/SDL/SDL_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1301615163 /usr/include/SDL/SDL_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1301615163 /usr/include/SDL/SDL_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1301615163 /usr/include/SDL/SDL_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1301615163 /usr/include/SDL/SDL_keysym.h
+
+1301615163 /usr/include/SDL/SDL_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1301615163 /usr/include/SDL/SDL_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1301615163 /usr/include/SDL/SDL_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1301615163 /usr/include/SDL/SDL_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1301615163 /usr/include/SDL/SDL_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1301615163 /usr/include/SDL/SDL_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1301615163 /usr/include/SDL/SDL_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1305393776 source:/home/aljosha/programiranje/gslsdl/glsdl/Engine.cpp
+	"Engine.h"
+	"Assert.h"
+	"TestModule.h"
+
+1305390358 /home/aljosha/programiranje/gslsdl/glsdl/Engine.h
+	<string>
+	<stdexcept>
+	<iostream>
+	<SDL.h>
+	<SDL_opengl.h>
+	"Timer.h"
+	"ModuleManager.h"
+	"Graphics.h"
+
+1301615163 /usr/include/SDL/SDL_opengl.h
+	"SDL_config.h"
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<gl.h>
+	<glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<windows.h>
+	<stddef.h>
+
+1305338586 /home/aljosha/programiranje/gslsdl/glsdl/Assert.h
+	<iostream>
+
+1305338638 source:/home/aljosha/programiranje/gslsdl/glsdl/Timer.cpp
+	"Timer.h"
+	<iostream>
+
+1305338445 /home/aljosha/programiranje/gslsdl/glsdl/Timer.h
+	<inttypes.h>
+	<SDL.h>
+
+1305346025 source:/home/aljosha/programiranje/gslsdl/glsdl/BaseModuleManager.cpp
+	"BaseModuleManager.h"
+	"GameModule.h"
+	<typeinfo>
+
+1305334267 /home/aljosha/programiranje/gslsdl/glsdl/BaseModuleManager.h
+	"GameModule.types.h"
+
+1305338544 /home/aljosha/programiranje/gslsdl/glsdl/GameModule.types.h
+	<deque>
+	<algorithm>
+	<string>
+	"GameModule.h"
+
+1305392418 /home/aljosha/programiranje/gslsdl/glsdl/GameModule.h
+	"GameModule.types.h"
+	<SDL.h>
+	<SDL_opengl.h>
+
+1305337027 source:/home/aljosha/programiranje/gslsdl/glsdl/EventManager.cpp
+	"EventManager.h"
+	"GameModule.h"
+	<iostream>
+
+1305335302 /home/aljosha/programiranje/gslsdl/glsdl/EventManager.h
+	"GameModule.types.h"
+	<SDL.h>
+
+1305346542 source:/home/aljosha/programiranje/gslsdl/glsdl/GameModule.cpp
+	"GameModule.h"
+	<iostream>
+
+1305391097 source:/home/aljosha/programiranje/gslsdl/glsdl/Graphics.cpp
+	"Graphics.h"
+	<iostream>
+
+1305339216 /home/aljosha/programiranje/gslsdl/glsdl/Graphics.h
+	<SDL_opengl.h>
+	<stdexcept>
+	"Texture.h"
+	"Assert.h"
+	<SDL/SDL_image.h>
+	"Font.h"
+
+1305338433 /home/aljosha/programiranje/gslsdl/glsdl/Texture.h
+	<SDL_opengl.h>
+
+1305337048 source:/home/aljosha/programiranje/gslsdl/glsdl/ModuleManager.cpp
+	"ModuleManager.h"
+	"GameModule.h"
+
+1305335908 /home/aljosha/programiranje/gslsdl/glsdl/ModuleManager.h
+	"EventManager.h"
+	"BaseModuleManager.h"
+	"Assert.h"
+
+1305338631 source:/home/aljosha/programiranje/gslsdl/glsdl/Texture.cpp
+	"Texture.h"
+
+1305375784 source:/home/aljosha/programiranje/gslsdl/glsdl/Vector2D.cpp
+	"Vector2D.h"
+
+1305338459 /home/aljosha/programiranje/gslsdl/glsdl/Vector2D.h
+	<math.h>
+
+1305340685 source:/home/aljosha/programiranje/gslsdl/glsdl/Font.cpp
+	"Font.h"
+	<cstring>
+
+1305339968 /home/aljosha/programiranje/gslsdl/glsdl/Font.h
+	<GL/gl.h>
+	<ft2build.h>
+	<cstring>
+	<string>
+	<vector>
+	<stdexcept>
+	<cstdarg>
+	<sstream>
+
+1305477056 source:/home/aljosha/programiranje/gslsdl/glsdl/TestModule.cpp
+	"TestModule.h"
+
+1305346673 /home/aljosha/programiranje/gslsdl/glsdl/TestModule.h
+	"GameModule.h"
+	"Light.h"
+	"Vector2D.h"
+	"PolyStruct.h"
+
+1305391546 /home/aljosha/programiranje/gslsdl/glsdl/Light.h
+	"Graphics.h"
+	<math.h>
+	"PolyStruct.h"
+	"Vector2D.h"
+	"Math.h"
+
+1305392209 /home/aljosha/programiranje/gslsdl/glsdl/PolyStruct.h
+	<list>
+	"Edge.h"
+	"Graphics.h"
+
+1305390794 /home/aljosha/programiranje/gslsdl/glsdl/Edge.h
+	"Point.h"
+	<iostream>
+
+1305390712 /home/aljosha/programiranje/gslsdl/glsdl/Point.h
+
+1305389608 /home/aljosha/programiranje/gslsdl/glsdl/Math.h
+
+1305392929 source:/home/aljosha/programiranje/gslsdl/glsdl/Edge.cpp
+	"Edge.h"
+
+1305393609 source:/home/aljosha/programiranje/gslsdl/glsdl/Light.cpp
+	"Light.h"
+
+1305391298 source:/home/aljosha/programiranje/gslsdl/glsdl/Point.cpp
+	"Point.h"
+
+1305392220 source:/home/aljosha/programiranje/gslsdl/glsdl/PolyStruct.cpp
+	"PolyStruct.h"
+
